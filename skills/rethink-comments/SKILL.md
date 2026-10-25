@@ -50,3 +50,8 @@ Judge "obvious" as a developer who reads the code for the first time, not as its
 - **Purpose**: what a function, class, or field is for, when its name and signature cannot say it all. For a long
   function, what each block does.
 - **Effects elsewhere**: a warning about a surprising edge case or a side effect in another part of the system.
+
+Classic books say it better:
+
+- _A Philosophy of Software Design_ by John Ousterhout
+- _Clean Code_ by Robert C. Martin

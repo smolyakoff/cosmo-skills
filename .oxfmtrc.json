@@ -1,0 +1,10 @@
+{
+  "singleQuote": true,
+  "ignorePatterns": ["package-lock.json", ".*.md"],
+  "overrides": [
+    {
+      "files": ["*.jsonc"],
+      "options": { "trailingComma": "none" }
+    }
+  ]
+}

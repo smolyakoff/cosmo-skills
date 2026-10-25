@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+._*
+Thumbs.db
+
+# IDE user-level files
+.idea/
+
+# Dependencies
+node_modules/
+
+# Agent feedback files
+/.ai-*.md

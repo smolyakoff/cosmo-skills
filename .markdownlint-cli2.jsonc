@@ -1,0 +1,9 @@
+{
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules/**", ".git/**", ".*.md"],
+  "config": {
+    "default": true,
+    // Line length is left to oxfmt.
+    "MD013": false
+  }
+}

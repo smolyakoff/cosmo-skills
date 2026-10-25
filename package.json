@@ -1,0 +1,25 @@
+{
+  "name": "cosmo-skills",
+  "private": true,
+  "description": "Unpopular agentic skills.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "postinstall": "lefthook install",
+    "check": "run-p check:*",
+    "check:format": "oxfmt --check",
+    "check:md": "markdownlint-cli2",
+    "fix": "run-s fix:*",
+    "fix:format": "oxfmt",
+    "fix:md": "markdownlint-cli2 --fix"
+  },
+  "devDependencies": {
+    "lefthook": "^2.2.2",
+    "markdownlint-cli2": "^0.24.0",
+    "npm-run-all2": "^9.0.3",
+    "oxfmt": "^0.74.0"
+  },
+  "allowScripts": {
+    "lefthook@2.2.2": true
+  }
+}

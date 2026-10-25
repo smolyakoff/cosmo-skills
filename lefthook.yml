@@ -1,0 +1,10 @@
+pre-commit:
+  commands:
+    fix:
+      run: npm run --silent fix
+      stage_fixed: true
+
+pre-push:
+  commands:
+    check:
+      run: npm run --silent check

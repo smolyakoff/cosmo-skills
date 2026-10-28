@@ -1,5 +1,5 @@
 ---
-name: rethink-comments
+name: rethink-comments-like-cosmo
 description: Rethink the comments and developer-facing messages in the current change. Drops every comment, re-adds only the good ones, and marks each message for human review. Use before opening a PR, or when asked to rethink comments or messages.
 ---
 

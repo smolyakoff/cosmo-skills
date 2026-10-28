@@ -15,7 +15,7 @@ Use [Vercel's skills CLI](https://github.com/vercel-labs/skills):
 npx skills add smolyakoff/cosmo-skills
 
 # Cherry-pick skills
-npx skills add smolyakoff/cosmo-skills --skill pair-in-editor
+npx skills add smolyakoff/cosmo-skills --skill pair-in-editor-like-cosmo
 ```
 
 ## Why use them

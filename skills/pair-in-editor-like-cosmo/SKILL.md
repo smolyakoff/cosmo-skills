@@ -1,5 +1,5 @@
 ---
-name: pair-in-editor
+name: pair-in-editor-like-cosmo
 description: Pair live in your editor. The human writes feedback in a markdown file and TODOs in the code, and the agent applies each thought as soon as the human finishes it.
 disable-model-invocation: true
 ---

@@ -46,3 +46,9 @@ This skill turns that habit into a step before you share the change:
   message for review.
 - **Human:** reviews the agent's diff, so the change goes out with comments and messages that help the next
   developer.
+
+### Manage worktrees
+
+Every agent has its own place for worktrees, which takes them out of the human's hands. I like my files organized, so
+this skill makes agents follow my layout: long-lived worktrees (slots) for recurring work, and temporary ones for
+throwaway agent experiments.

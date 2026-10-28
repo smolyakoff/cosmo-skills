@@ -36,8 +36,8 @@ Wait for a separator after the last item.
 In code, a TODO is complete on the first of these signals:
 
 - It ends with `END`.
-- The human moved on: they edited another place in the code or the feedback file after it.
-- The file has been quiet for a short while.
+- The human moved on: they edited another file after it.
+- The file has been quiet for a few minutes.
 
 ## Loop
 
